@@ -15,7 +15,7 @@ iRON = os.environ
 SyS = get_ipython().system
 
 REPO = {
-    'A1111': 'https://github.com/Haoming02/sd-webui-forge-classic/tree/neo A1111',
+    'A1111': '-b dev https://github.com/AUTOMATIC1111/stable-diffusion-webui A1111',
     'Forge': 'https://github.com/lllyasviel/stable-diffusion-webui-forge Forge',
     'ReForge': 'https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
     'ReForge-old': '-b main-old https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge-old',
